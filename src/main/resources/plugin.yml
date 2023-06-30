@@ -1,0 +1,52 @@
+name: tools
+version: '${project.version}'
+main: makerski.tools.Tools
+api-version: '1.13'
+author: makerski
+commands:
+  gm1:
+    description: Włączenie gamemode 1
+    aliases: gmc
+  gm2:
+    description: Włączenie gamemode 2
+    aliases: gma
+  gm3:
+    description: Włączenie gamemode 3
+    aliases: gmsp
+  gm0:
+    description: Włączenie gamemode 0
+    aliases: gms
+  feed:
+    description: Zaspokojenie głodu
+    aliases: glod
+  fly:
+    description: Włączenie latania
+    aliases: latanie
+  gamma:
+    description: Efekt gammy
+    aliases: nicniewidze
+  heal:
+    description: Leczenie
+    aliases: leczenie
+  pomoc:
+    description: Komenda główna pluginu (pomoc)
+    aliases: help
+  bc:
+    description: Komenda wysyłająca ogłoszenia
+    aliases: broadcast
+  wb:
+    description: Komenda otwierająca przenośny enderchest
+    aliases: workbench
+  ec:
+    description: Otwiera przenośny enderchest
+    aliases: enderchest
+  repair:
+    description: Naprawia pojedynczy przedmiot
+    aliases: napraw
+  kosz:
+    description: Pozwala na wyrzucenie zbednych przedmiotow
+    aliases: smieciarka
+  msg:
+    description: Wiadomosci prywatne
+    aliases: dm
+

@@ -1,0 +1,49 @@
+pomoc:
+  - ''
+  - '&eKomendy zawarte w pluginie:'
+  - '&8'
+  - '&7 &6/bc &ebc/title/actionbar &8- &7wiadomość do wszystkich graczy'
+  - '&7 &6/feed &8- &7regeneracja głodu'
+  - '&7 &6/gamma &8- &7włącza/wyłącza widzenie w ciemności'
+  - '&7 &6/heal &8- &7regeneracja zdrowia'
+  - '&7 &6/repair &8- &7naprawia przedmiot trzymany w ręce'
+  - '&7 &6/kosz &8- &7wyrzuca przedmioty do kosza'
+  - '&7 &6/workbench &8- &7otwiera przenosny crafting'
+  - '&7 &6/ec &enick &8- &7otwiera własny/czyjś enderchest'
+  - '&7 &6/gm0 /gm1 /gm2 /gm3 &8- &7przełącza gamemode'
+  - '&7 &6/pomoc &8- &7otwiera to menu'
+  - ''
+
+no-permission: '&cNie posiadasz permisji do użycia tej komendy.'
+
+gamemode-change: '&aTryb gry został zmieniony'
+
+open-workbench: '&aOtwarto przenośny crafting table'
+
+repair-sucess: '&aPomyślnie naprawiono przedmiot'
+
+gamma-on: '&aGamma została włączona'
+gamma-off: '&aGamma została wyłączona'
+
+fly-on: '&aLatanie zostało włączone'
+fly-off: '&aLatanie zostało wyłączone'
+
+enderchest-open-self: '&aOtwarto przenośny enderchest'
+enderchest-open-player: '&aOtwarto enderchest gracza &2'
+
+bc-use: '&cPoprawne użycie: &4/bc bc/title/actiobar'
+alert-prefix: '&4&lALERT '
+
+msg-usage: '&cPoprawne użycie: &4/msg nick wiadomość'
+
+unknown: '&cNie odnaleziono takiego gracza!'
+
+feed-succes: '&aPomyślnie zregenerowano głód'
+feed-succes-viewer: '&aTwój głód został zregenerowany przez &2'
+feed-succes-sender: '&aPomyślnie zregenerowałeś głód gracza &2'
+feed-use: '&cPoprawne użycie: &4/feed nick'
+
+heal-succes: '&aPomyślnie uleczono'
+heal-succes-viewer: '&aTwoje serca zostały zregenerowane przez &2'
+heal-succes-sender: '&aPomyślnie zregenerowałeś serca gracza &2'
+heal-use: '&cPoprawne użycie: &4/heal nick'
