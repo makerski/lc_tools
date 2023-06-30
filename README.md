@@ -15,7 +15,15 @@
  - command /wb used to open portable crafting
 
  # Permissions:
-  soon
+ - "gm.gamemode" - player can use /gm command. Replace gamemode with: adventure, creative, survival, creative
+ - "bc.use" - player can use /broadcast
+ - "ec.use" - player can use /ec (only own, player enderchest)
+ - "ec.admin" - player can open enderchest of any player
+ - "feed.use" - player can use /feed
+ - "fly.use" - player can use /fly
+ - "heal.use" - player can use /heal
+ - "repair.use" - player can use /repair
+ - "wb.use" - player can use /wb
 
  # Support:
  You can get support with errors from console and other errors at official discord: https://discord.gg/vPYvM6st3t
